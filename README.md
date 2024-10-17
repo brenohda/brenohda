@@ -10,8 +10,8 @@ Gosto muito de desenhos 🎨, filmes 🎬, e games 🎮
 Sou o irmão mais velho da minha casa (🫂 Oiii Murilo se vc estiver vendo)
 
 > 🌱 Estou atualmente aprendendo python <br>
-> 🔭 Estou atualmente trabalhando no LABRI <br>
-> 📫 Estou aberto para contatos neste email: b.andreazza@unesp.br <br>
+> 🔭 Trabalhando no LABRI <br>
+> 📫 Aberto para contatos neste email: b.andreazza@unesp.br <br>
 > ⚡ Fato divertido: meus amigos me chamam por, pelo menos, 6 apelidos diferentes <br>
 
 ### Onde me encontrar?
